@@ -8,7 +8,7 @@ NeutronGate is a research project by [NEXSPACE](https://www.nexspace.jp) explori
 
 ## Core: 360-DQHM
 
-A holographic associative memory based on Vector Symbolic Architecture.
+*360-Dimensional Dynamic Quanta Hierarchical Memory* — a holographic associative memory based on Vector Symbolic Architecture.
 
 - **360-dimensional complex vector space** for encoding concepts
 - **Synaptic Permutation Binding** to compose concepts into structured memories
@@ -28,7 +28,7 @@ Active development on a CPU-only build (Intel i5-6200U laptop). Current work: th
 
 ## Related
 
-- Papers on Zenodo: [18922676](https://zenodo.org/records/18922676), [18815443](https://zenodo.org/records/18815443)
+- Paper: [360-DQHM: A Phase-Topology-Based Memory Architecture Achieving O(1) Search Complexity at Billion-Entry Scale](https://zenodo.org/records/18922676) (Zenodo preprint, March 2026)
 - Contact: contact@nexspace.jp
 
 ---
